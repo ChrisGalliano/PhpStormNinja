@@ -20,6 +20,7 @@
 
 <br/>
 <br/>
+
 Также включаем `Automatically insert single suggestions for: - Smart Type Completion`
 
 В PhpStorm есть 2 типа авто-дополнения, стандартный "Completion" (Ctrl+Space) и умный - "Smart Type Completion" (Ctrl+Shift+Space)
@@ -28,11 +29,13 @@ Smart Type Completion при составлении вариантов допо�
 ![Smart Type Completion example](/Completions/assets/SmartTypeCompletion.gif)
 
 <br/>
+
 При включении `Automatically insert single suggestions for: - Smart Type Completion` PhpStorm автоматически вставит вариант дополнения, при вызове Smart Type Completion, если существует только 1 подходящий вариант: 
 ![Smart Type Completion Insert example](/Completions/assets/SmartTypeCompletionInsert.gif)
 
 <br/>
 <br/>
+
 Также советую включить `Machine Learning-Assisted Completion` для PHP. PhpStorm будет анализировать, какие варианты авто-дополнения вы выбираете чаще и поднимать их повыше в списке.
 
 <br/>
