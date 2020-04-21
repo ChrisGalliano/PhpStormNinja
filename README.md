@@ -6,3 +6,4 @@
 - [Completions](/Completions/Completions.md)
     - [Auto-Completion](/Completions/Completions.md#auto-completion)
     - [Other plugins](/Completions/Completions.md#other-plugins)
+- [Auto Import](/AutoImport/AutoImport.md)
