@@ -39,10 +39,9 @@ Smart Type Completion при составлении вариантов допо�
 Также советую включить `Machine Learning-Assisted Completion` для PHP. PhpStorm будет анализировать, какие варианты авто-дополнения вы выбираете чаще и поднимать их повыше в списке.
 
 <br/>
-<br/>
+
 Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1)
-![Screenshot of my settings]
-(assets/CodeCompletionSettings.png)
+![Screenshot of my settings](/Completions/assets/CodeCompletionSettings.png)
 
 ## Other Plugins
 DeepAssocCompletion
