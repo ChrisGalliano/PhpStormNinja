@@ -44,4 +44,4 @@ Smart Type Completion при составлении вариантов допо�
 ![Screenshot of my settings](/Completions/assets/CodeCompletionSettings.png)
 
 ## Other Plugins
-DeepAssocCompletion
+[deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion) - комплитит ключи ассоциативных массивов
