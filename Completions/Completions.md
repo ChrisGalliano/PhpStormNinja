@@ -2,6 +2,9 @@
 ```php
 # @todo basic description & terminology 
 ```
+Navigation:
+- [Auto-Completion](#auto-completion)
+- [Other plugins](#other-plugins)
 
 
 ## Auto-Completion
