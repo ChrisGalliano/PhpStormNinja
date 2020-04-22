@@ -4,7 +4,7 @@
 
 
 - [Completions](/Completions/Completions.md)
-    - [Auto-Completion](/Completions/Completions.md#auto-completion)
-    - [Live templates](/Completions/Completions.md#live-templates)
-    - [Other plugins](/Completions/Completions.md#other-plugins)
+    - [Code completion](/Completions/CodeCompletion.md)
+    - [Live templates](/Completions/LiveTemplates.md)
+    - [Other plugins for completion](/Completions/OtherPlugins.md)
 - [Auto Import](/AutoImport/AutoImport.md)
