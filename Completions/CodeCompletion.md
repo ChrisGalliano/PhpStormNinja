@@ -1,4 +1,4 @@
-{% include_relative TableOfContents.md %}
+{% include_relative /TableOfContents.md %}
 
 
 # Code completion
