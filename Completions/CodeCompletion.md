@@ -1,3 +1,6 @@
+{% include_relative TableOfContents.md %}
+
+
 # Code completion
 Это классическое авто-дополнение кода при наборе названия
 - класса
