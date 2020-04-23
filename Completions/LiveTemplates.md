@@ -30,13 +30,13 @@ foreach ($ITERABLE$ as $VAR_VALUE$) {
 В процессе разворачивания темплейта каретка ввода будет поочередно подставляться на место каждой переменной. После того, как мы закончили ввод кода на месте переменной `$ITERABLE$` нужно нажать Enter или Tab и мы автоматически перейдем к заполнению следующей переменной - `$VAR_VALUE$`.
 
 `$END$` - это стандартная переменная, она обозначает, что в этой точке нужно остановить каретку ввода, когда темплейт развернется:
-![Screenshot of "fore" Live Template](/Completions/assets/ExpandForeLiveTemplate.gif)
+![Expand "fore" template](/Completions/assets/ExpandForeLiveTemplate.gif)
 
 <br/>
 
 На гифке можно наблюдать еще одну особенность - массив `$users` мы выбираем вручную, а значение `$user`, на место `$VAR_VALUE$`, подставляется автоматически. Как это происходит?<br/>
 Дело в настройках переменных, которые прячутся под кнопкой `Edit Variables`. Нажимаем на нее и видим следующее окно:<br/>
-![Screenshot of "fore" Live Template](/Completions/assets/ForeLiveTemplateVariables.png)
+![Screenshot of "fore" Live Template variables](/Completions/assets/ForeLiveTemplateVariables.png)
 
 Все пользовательские переменные добавляются в эту табличку автоматически. В табличке есть 4 колонки:
 
