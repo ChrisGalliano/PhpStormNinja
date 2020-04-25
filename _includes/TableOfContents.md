@@ -1,4 +1,4 @@
-- [Completions]({{ site.baseurl }}{% link Completions/Completions.md %})
+- [Completions]({{ site.docurl }}{% link Completions/Completions.md %})
     - [Code Completion](/Completions/CodeCompletion.md)
     - [Live Templates](/Completions/LiveTemplates.md)
     - [Postfix Completion](/Completions/PostfixCompletion.md)
