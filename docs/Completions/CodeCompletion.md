@@ -13,7 +13,7 @@
 Переходим в `Settings -> Editor -> General -> Code completion`
 
 Первым делом снимаем галочку с `Match Case`, теперь при составлении авто-дополнений вообще не будет учитываться регистр.
-![Case insensitivity example](/Completions/assets/CaseInsensitive.gif)
+![Case insensitivity example](assets/CaseInsensitive.gif)
 
 <br/>
 <br/>
