@@ -23,12 +23,12 @@
 В PhpStorm есть 2 типа авто-дополнения, стандартный "Completion" (Ctrl+Space) и умный - "Smart Type Completion" (Ctrl+Shift+Space)
 
 Smart Type Completion при составлении вариантов дополнения учитывает контекст. Например тип аргумента вызываемого метода:  
-![Smart Type Completion example](/Completions/assets/SmartTypeCompletion.gif)
+![Smart Type Completion example](assets/SmartTypeCompletion.gif)
 
 <br/>
 
 При включении `Automatically insert single suggestions for: - Smart Type Completion` PhpStorm автоматически вставит вариант дополнения, при вызове Smart Type Completion, если существует только 1 подходящий вариант: 
-![Smart Type Completion Insert example](/Completions/assets/SmartTypeCompletionInsert.gif)
+![Smart Type Completion Insert example](assets/SmartTypeCompletionInsert.gif)
 
 <br/>
 <br/>
@@ -38,4 +38,4 @@ Smart Type Completion при составлении вариантов допо�
 <br/>
 
 Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1)
-![Screenshot of my settings](/Completions/assets/CodeCompletionSettings.png)
+![Screenshot of my settings](assets/CodeCompletionSettings.png)
