@@ -2,7 +2,7 @@
 ```php
 # @todo basic description & terminology 
 ```
-- [Code Completion](/Completions/CodeCompletion.md)
-- [Live Templates](/Completions/LiveTemplates.md)
-- [Postfix Completion](/Completions/PostfixCompletion.md)
-- [Other plugins for completion](/Completions/OtherPlugins.md)
+- [Code Completion]({{ site.baseurl }}{% link docs/Completions/CodeCompletion.md %})
+- [Live Templates]({{ site.baseurl }}{% link docs/Completions/LiveTemplates.md %})
+- [Postfix Completion]({{ site.baseurl }}{% link docs/Completions/PostfixCompletion.md %})
+- [Other plugins for completion]({{ site.baseurl }}{% link docs/Completions/OtherPlugins.md %})
