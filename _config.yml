@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 
 baseurl: "/PhpStormNinja" # subpath of site
+docurl: "/PhpStormNinja/docs" # materials directory url
