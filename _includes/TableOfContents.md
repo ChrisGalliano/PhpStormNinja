@@ -1,4 +1,4 @@
-- [Completions](/Completions/Completions.md)
+- [Completions](Completions/Completions.md)
     - [Code Completion](/Completions/CodeCompletion.md)
     - [Live Templates](/Completions/LiveTemplates.md)
     - [Postfix Completion](/Completions/PostfixCompletion.md)
