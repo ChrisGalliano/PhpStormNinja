@@ -5,7 +5,7 @@ Settings -> Editor -> General -> Auto Import
 
 Первая настройка -  `Insert imports on paste`, выбираем `All`.
 Теперь при копипасте кода PhpStorm не будет спрашивать, надо ли импортировать классы.
-![Insert imports on paste "All" example](/AutoImport/assets/InsertImportsOnPasteAll.gif)
+![Insert imports on paste "All" example](assets/InsertImportsOnPasteAll.gif)
 
 <br/>
 <br/>
@@ -19,4 +19,4 @@ Settings -> Editor -> General -> Auto Import
 <br/>
 
 Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1)
-![Screenshot of my settings](/AutoImport/assets/AutoImportSettings.png)
+![Screenshot of my settings](assets/AutoImportSettings.png)
