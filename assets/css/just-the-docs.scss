@@ -47,6 +47,9 @@ $logo: "{{ site.logo | absolute_url }}";
 @import "./code";
 @import "./utilities/utilities";
 @import "./overrides";
+// custom styles should be placed below
+
+// responsive embedded videos
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
