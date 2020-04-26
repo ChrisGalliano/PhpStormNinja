@@ -5,3 +5,4 @@
     - [Fast Coddy]({{ site.baseurl }}{% link docs/Completions/FastCoddy.md %})
     - [Other plugins for completion]({{ site.baseurl }}{% link docs/Completions/OtherPlugins.md %})
 - [Auto Import]({{ site.baseurl }}{% link docs/AutoImport/AutoImport.md %})
+- [Refactoring Tools]({{ site.baseurl }}{% link docs/RefactoringTools/RefactoringTools.md %})
