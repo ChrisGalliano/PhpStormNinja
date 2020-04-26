@@ -1,4 +1,5 @@
 ---
+title: Completions
 has_children: true
 ---
 
