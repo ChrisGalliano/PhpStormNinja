@@ -11,4 +11,4 @@ driveId: 1Hh6ewLzmazAy07aLtBLUyfzxnO1wbBKy/preview
 - [Postfix Completion]({{ site.baseurl }}{% link docs/Completions/PostfixCompletion.md %})
 - [Other plugins for completion]({{ site.baseurl }}{% link docs/Completions/OtherPlugins.md %})
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id='1Hh6ewLzmazAy07aLtBLUyfzxnO1wbBKy/preview' %}
