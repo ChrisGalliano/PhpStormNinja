@@ -1,5 +1,6 @@
 ---
 parent: Completions
+nav_order: 1
 ---
 
 # Code completion
