@@ -1,7 +1,3 @@
----
-driveId: 1Hh6ewLzmazAy07aLtBLUyfzxnO1wbBKy/preview
----
-
 # Completions
 ```php
 # @todo basic description & terminology 
@@ -11,4 +7,4 @@ driveId: 1Hh6ewLzmazAy07aLtBLUyfzxnO1wbBKy/preview
 - [Postfix Completion]({{ site.baseurl }}{% link docs/Completions/PostfixCompletion.md %})
 - [Other plugins for completion]({{ site.baseurl }}{% link docs/Completions/OtherPlugins.md %})
 
-{% include googleDrivePlayer.html id='1Hh6ewLzmazAy07aLtBLUyfzxnO1wbBKy/preview' %}
+{% include googleDrivePlayer.html id='1eQ8QuNn8tu48Afk5DQeUSGKaenZzA0Ko/preview' %}
