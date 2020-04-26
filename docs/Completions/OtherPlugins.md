@@ -1,5 +1,6 @@
 ---
 parent: Completions
+nav_order: 5
 ---
 
 # Other Plugins
