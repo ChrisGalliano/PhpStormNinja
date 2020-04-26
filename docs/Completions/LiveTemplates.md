@@ -1,5 +1,6 @@
 ---
 parent: Completions
+nav_order: 2
 ---
 
 # Live templates
