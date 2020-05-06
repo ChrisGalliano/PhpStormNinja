@@ -13,4 +13,4 @@ nav_order: 2
 
 При переносе класса/неймспейса PhpStorm должен автоматически корректно определять директорию, в которую необходимо переместить класс. Если этого не происходит - надо настроить корневые неймспейсы в `Settings -> Directories`.
 
-https://www.jetbrains.com/help/phpstorm/settings-directories.html
+[https://www.jetbrains.com/help/phpstorm/settings-directories.html](https://www.jetbrains.com/help/phpstorm/settings-directories.html)
