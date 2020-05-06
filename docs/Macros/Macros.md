@@ -1,7 +1,7 @@
 # Macros
 
 Достаточно стандартный инструмент, позволяет записать любой набор действий и повесить на них шорткат.<br/>
-Поочередно воспроизводит каждое действие. Иногда может тупить/ломаться, потому советую уделить большее внимание таким инструментам как [Live Templates](/docs/Completions/LiveTemplates.md) и [Postfix Completion](/docs/Completions/PostfixCompletion.md).
+Поочередно воспроизводит каждое действие. Иногда может тупить/ломаться, потому советую уделить большее внимание таким инструментам как [Live Templates]({{ site.baseurl }}{% link docs/Completions/LiveTemplates.md %}) и [Postfix Completion]({{ site.baseurl }}{% link docs/Completions/PostfixCompletion.md %}).
 Но все же иногда бывает полезен.
 
 Запись макроса:
