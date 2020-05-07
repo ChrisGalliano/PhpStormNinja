@@ -1,5 +1,5 @@
 ---
-parent: RefactoringTools
+parent: Refactoring Tools
 nav_order: 1
 ---
 

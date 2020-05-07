@@ -1,5 +1,5 @@
 ---
-title: RefactoringTools
+title: Refactoring Tools
 nav_order: 3
 has_children: true
 ---
