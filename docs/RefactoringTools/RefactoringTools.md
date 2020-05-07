@@ -9,10 +9,3 @@ has_children: true
 
 
 P.S. в этом разделе я упомянул только те инструменты рефакторинга, которые считаю полезными. С полным списком можете ознакомиться [тут](https://www.jetbrains.com/help/phpstorm/refactoring-source-code.html).
-
-
-
-```php
-# @todo extract video to another project 
-```
-{% include googleDrivePlayer.html id='1GPbR7Zrk9oBmTxH4PuwV_YR4DsUY9AfD/preview' %}
