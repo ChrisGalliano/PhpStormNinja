@@ -6,4 +6,9 @@ PhpStorm Ninja
 
 Документация в красивом виде доступна тут [https://chrisgalliano.github.io/PhpStormNinja](https://chrisgalliano.github.io/PhpStormNinja)
 
-{% include TableOfContents.md %}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
