@@ -1,3 +1,8 @@
+---
+title: Auto import
+nav_order: 5
+has_children: false
+---
 # Auto import
 Settings -> Editor -> General -> Auto Import
 
