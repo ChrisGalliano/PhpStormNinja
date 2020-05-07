@@ -2,7 +2,6 @@
     - [Code Completion]({{ site.baseurl }}{% link docs/Completions/CodeCompletion.md %})
     - [Live Templates]({{ site.baseurl }}{% link docs/Completions/LiveTemplates.md %})
     - [Postfix Completion]({{ site.baseurl }}{% link docs/Completions/PostfixCompletion.md %})
-    - [Fast Coddy]({{ site.baseurl }}{% link docs/Completions/FastCoddy.md %})
     - [Other plugins for completion]({{ site.baseurl }}{% link docs/Completions/OtherPlugins.md %})
 - [Auto Import]({{ site.baseurl }}{% link docs/AutoImport/AutoImport.md %})
 - [Macros]({{ site.baseurl }}{% link docs/Macros/Macros.md %})
