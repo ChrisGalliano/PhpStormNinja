@@ -1,9 +1,9 @@
 ---
-title: Auto import
+title: Auto Import
 nav_order: 5
 has_children: false
 ---
-# Auto import
+# Auto Import
 Settings -> Editor -> General -> Auto Import
 
 Нас интересует блок PHP.
