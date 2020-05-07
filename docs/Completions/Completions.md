@@ -4,7 +4,5 @@ has_children: true
 ---
 
 # Completions
-```php
-# @todo basic description & terminology 
-```
-{% include googleDrivePlayer.html id='1eQ8QuNn8tu48Afk5DQeUSGKaenZzA0Ko/preview' %}
+
+Auto-completions это один из инструментов, которые по сути сформировали понятие IDE в современном его виде. В этот блок я объединил все инструменты, которые "заканчивают" автоматически, вместо написания его вручную.
