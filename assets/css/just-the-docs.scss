@@ -69,3 +69,9 @@ $logo: "{{ site.logo | absolute_url }}";
 p > img:not(.emoji) {
   margin-top: 10px;
 }
+
+blockquote {
+  border-left: 3px solid lightgrey;
+  margin-inline-start: 20px;
+  padding-left: 20px;
+}
