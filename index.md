@@ -8,7 +8,7 @@ permalink: /
 
 {% include_relative README.md %}
 
-
+Cсылка на репозиторий: [https://github.com/ChrisGalliano/PhpStormNinja](https://github.com/ChrisGalliano/PhpStormNinja)
 ---
 
 
