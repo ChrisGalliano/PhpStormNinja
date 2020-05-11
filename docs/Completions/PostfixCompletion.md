@@ -12,13 +12,11 @@ nav_order: 3
 
 Мой шаблон `.w` оборачивает любое выражение в скобки и добавляет стрелку `->`.  
 
-Чтобы настроить себе такой - переходим в<br/> 
-Settings -> Editor -> General -> Postfix Completion
-> тут же можно посмотреть примеры стандартных Postfix Completions
+Чтобы настроить себе такой - переходим в `Settings -> Editor -> General -> Postfix Completion`. Тут же можно посмотреть примеры стандартных Postfix Completions.
 
-- Нажимаем на плюс
-- выбираем PHP
-- В Key пишем w, жмем ок
+1. нажимаем на плюс;
+2. выбираем PHP;
+3. в Key пишем w, жмем ок.
 
 В создавшемся Postfix Completion уже заполнено поле "before": `$EXPR$.w`
 
@@ -27,5 +25,5 @@ Settings -> Editor -> General -> Postfix Completion
 Теперь любое выражение можно обернуть в `()->`.
 
 P.S. Postfix Completion работает со всем выражением, ему не важно, разбито ли оно на несколько строк, присваивается ли в переменную и т.д.<br/>
-Вот мой Postfix Completion `.d`, для вызова [symfony/var-dumper](https://github.com/symfony/var-dumper). <br/>
+Вот мой Postfix Completion `.d`, для вызова [symfony/var-dumper](https://github.com/symfony/var-dumper):
 ![Postfix completion example](assets/PostfixCompletionDumpExample.gif)
