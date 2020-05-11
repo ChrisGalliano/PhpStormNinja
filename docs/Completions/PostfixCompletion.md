@@ -6,13 +6,13 @@ nav_order: 3
 # Postfix Completion
 Позволяет проводить манипуляции с выражениями. К сожалению, в отличие от `Live Templates` не такой гибкий в настройке, но все равно очень полезный.
 
-Покажу, что он умеет на примере:<br/>
+Покажу, что он умеет, на примере:<br/>
 ![Postfix completion example](assets/PostfixCompletionExample.gif)
 
 
 Мой шаблон `.w` оборачивает любое выражение в скобки и добавляет стрелку `->`.  
 
-Чтобы настроить себе такой - переходим в `Settings -> Editor -> General -> Postfix Completion`. Тут же можно посмотреть примеры стандартных Postfix Completions.
+Чтобы настроить себе такой, переходим в `Settings -> Editor -> General -> Postfix Completion`. Тут же можно посмотреть примеры стандартных Postfix Completions.
 
 1. нажимаем на плюс;
 2. выбираем PHP;
