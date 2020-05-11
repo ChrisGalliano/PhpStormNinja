@@ -14,9 +14,9 @@ nav_order: 3
 
 Чтобы настроить себе такой, переходим в `Settings -> Editor -> General -> Postfix Completion`. Тут же можно посмотреть примеры стандартных Postfix Completions.
 
-1. нажимаем на плюс;
-2. выбираем PHP;
-3. в Key пишем w, жмем ок.
+1. Нажимаем на плюс;
+2. Выбираем PHP;
+3. В Key пишем w, жмем ок.
 
 В создавшемся Postfix Completion уже заполнено поле "before": `$EXPR$.w`
 
