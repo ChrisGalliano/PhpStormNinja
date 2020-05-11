@@ -66,6 +66,6 @@ $logo: "{{ site.logo | absolute_url }}";
   height: 100%;
 }
 
-p > img.not(.emoji) {
+p > img:not(.emoji) {
   margin-top: 10px;
 }
