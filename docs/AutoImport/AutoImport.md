@@ -13,7 +13,6 @@ Settings -> Editor -> General -> Auto Import
 ![Insert imports on paste "All" example](assets/InsertImportsOnPasteAll.gif)
 
 <br/>
-<br/>
 
 Следующая настройка - условия срабатывания автоимпорта.
 
@@ -23,5 +22,5 @@ Settings -> Editor -> General -> Auto Import
 
 <br/>
 
-Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1)
+Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1):
 ![Screenshot of my settings](assets/AutoImportSettings.png)
