@@ -6,7 +6,7 @@ nav_order: 2
 # Live templates
 Во время разработки мы часто печатаем стандартные, повторяющиеся структуры, с небольшими отличиями: циклы, if-ы, объявляем методы, бросаем исключения и т.д. Live templates позволяет автоматизировать создание этих структур.
 
-В PhpStorm есть ряд стандартных live темплейтов, давайте рассмотрим один для примера, переходим в `Settings -> Editor -> Live Templates -> PHP -> fore`
+В PhpStorm есть ряд стандартных live темплейтов. Давайте рассмотрим один для примера. Переходим в `Settings -> Editor -> Live Templates -> PHP -> fore`:
 ![Screenshot of "fore" Live Template](assets/LiveTemplateFore.png)
 
 
