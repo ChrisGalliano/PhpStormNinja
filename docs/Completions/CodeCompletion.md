@@ -17,8 +17,6 @@ nav_order: 1
 Первым делом снимаем галочку с `Match Case`: теперь при составлении авто-дополнений вообще не будет учитываться регистр.
 ![Case insensitivity example](assets/CaseInsensitive.gif)
 
-<br/>
-<br/>
 
 Также включаем `Automatically insert single suggestions for: - Smart Type Completion`
 
@@ -27,17 +25,13 @@ nav_order: 1
 Smart Type Completion при составлении вариантов дополнения учитывает контекст. Например тип аргумента вызываемого метода:  
 ![Smart Type Completion example](assets/SmartTypeCompletion.gif)
 
-<br/>
 
 При включении `Automatically insert single suggestions for: - Smart Type Completion` PhpStorm автоматически вставит вариант дополнения при вызове Smart Type Completion, если существует только 1 подходящий вариант: 
 ![Smart Type Completion Insert example](assets/SmartTypeCompletionInsert.gif)
 
-<br/>
-<br/>
 
 Также советую включить `Machine Learning-Assisted Completion` для PHP. PhpStorm будет анализировать, какие варианты авто-дополнения вы выбираете чаще и поднимать их повыше в списке.
 
-<br/>
 
 Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1)
 ![Screenshot of my settings](assets/CodeCompletionSettings.png)
