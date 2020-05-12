@@ -19,7 +19,7 @@ Settings -> Editor -> General -> Auto Import
 > Также настоятельно рекомендую выбрать `Treat symbols from the global space -> Class -> prefer FQN`.
 > Иначе будут автоимпортиться классы из глобального неймспейса, что совершенно бессмысленно :man_shrugging:.
 
-<br/>
+---
 
 Вот так выглядят мои настройки на текущий момент (PhpStorm 2020.1):
 ![Screenshot of my settings](assets/AutoImportSettings.png)
