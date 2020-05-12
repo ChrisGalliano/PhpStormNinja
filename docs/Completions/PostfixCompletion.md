@@ -25,7 +25,7 @@ nav_order: 3
 
 Теперь любое выражение можно обернуть в `()->`.
 
-<br/>
+---
 
 P.S. Postfix Completion работает со всем выражением, ему не важно, разбито ли оно на несколько строк, присваивается ли в переменную и т.д.<br/>
 Вот мой Postfix Completion `.d`, для вызова [symfony/var-dumper](https://github.com/symfony/var-dumper):
