@@ -15,6 +15,7 @@ nav_order: 3
 Последнее я использую достаточно редко, а вот `subtypes` это очень удобная штука, когда надо посмотреть, кто реализует интерфейс или наследует класс.
 ![Type Hierarchy usage example](assets/TypeHierarchy.gif)
 
+<br>
 
 ## Method Hierarchy
 

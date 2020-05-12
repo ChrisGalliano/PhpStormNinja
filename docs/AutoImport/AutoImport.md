@@ -14,11 +14,10 @@ Settings -> Editor -> General -> Auto Import
 
 <br/>
 
-Следующая настройка - условия срабатывания автоимпорта.
-
-Ставим галочки `Enable auto-import in file scope` и `Enable auto-import in namespace scope`.
+## Auto-Import Conditions
+В этом блоке настраиваются условия срабатывания авто-импорта. Ставим галочки `Enable auto-import in file scope` и `Enable auto-import in namespace scope`.
 > Также настоятельно рекомендую выбрать `Treat symbols from the global space -> Class -> prefer FQN`.
-> Иначе автоимпортиться будут классы из глобального неймспейса, что совершенно бессмысленно :man_shrugging:.  
+> Иначе будут автоимпортиться классы из глобального неймспейса, что совершенно бессмысленно :man_shrugging:.
 
 <br/>
 

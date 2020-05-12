@@ -9,6 +9,7 @@ nav_order: 3
 Покажу, что он умеет, на примере:<br/>
 ![Postfix completion example](assets/PostfixCompletionExample.gif)
 
+<br/>
 
 Мой шаблон `.w` оборачивает любое выражение в скобки и добавляет стрелку `->`.  
 
@@ -23,6 +24,8 @@ nav_order: 3
 В "after" пишем `($EXPR$)->` (или `($EXPR$)`, как вам больше нравится), сохраняем.
 
 Теперь любое выражение можно обернуть в `()->`.
+
+<br/>
 
 P.S. Postfix Completion работает со всем выражением, ему не важно, разбито ли оно на несколько строк, присваивается ли в переменную и т.д.<br/>
 Вот мой Postfix Completion `.d`, для вызова [symfony/var-dumper](https://github.com/symfony/var-dumper):

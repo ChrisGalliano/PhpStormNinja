@@ -18,7 +18,6 @@ nav_order: 1
 ![Case insensitivity example](assets/CaseInsensitive.gif)
 
 <br/>
-<br/>
 
 Также включаем `Automatically insert single suggestions for: - Smart Type Completion`
 
@@ -33,7 +32,6 @@ Smart Type Completion при составлении вариантов допо�
 При включении `Automatically insert single suggestions for: - Smart Type Completion` PhpStorm автоматически вставит вариант дополнения при вызове Smart Type Completion, если существует только 1 подходящий вариант: 
 ![Smart Type Completion Insert example](assets/SmartTypeCompletionInsert.gif)
 
-<br/>
 <br/>
 
 

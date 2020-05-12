@@ -48,6 +48,7 @@ nav_order: 3
 Настройка прячется за тремя точками, в шапке `File Tree`.<br>
 ![Open Files with Single Click Setting ](assets/OpenFilesWithSingleClickSetting.gif)
 
+<br>
 
 ### Always Select Opened File
 После включения этой опции `File Tree` будет автоматически прокручиваться до открытого файла, при переключении между файлами с помощью [Recent Files]({{ site.baseurl }}{% link docs/NavigationTools/RecentFiles.md %}), Navigate to Class, вкладок и других инструментов навигации. Настройка находится под `Open Files with Single Click` (см. гифку выше).
