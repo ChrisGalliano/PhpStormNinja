@@ -4,3 +4,7 @@ plugins:
   - jemoji
 
 baseurl: "/PhpStormNinja" # subpath of site
+
+aux_links:
+  "PhpStorm Ninja on GitHub":
+    - "//github.com/ChrisGalliano/PhpStormNinja"
