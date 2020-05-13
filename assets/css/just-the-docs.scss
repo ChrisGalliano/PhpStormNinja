@@ -70,6 +70,10 @@ p > img:not(.emoji) {
   margin-top: 10px;
 }
 
+img.emoji {
+  margin-bottom: -5px;
+}
+
 blockquote {
   border-left: 3px solid lightgrey;
   color: #808080;
