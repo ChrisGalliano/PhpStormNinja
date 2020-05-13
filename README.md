@@ -12,4 +12,6 @@ PhpStorm Ninja
 
 <br>
 
-![logo.png](assets/img/logo.png)
+<p align="center">
+  <img width="350" alt="logo" src="assets/img/logo.png">
+</p>
