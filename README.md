@@ -13,5 +13,5 @@ PhpStorm Ninja
 <br>
 
 <p align="center">
-  <img width="350" alt="logo" src="assets/img/logo.png">
+  <img width="350" class="logo" alt="logo" src="assets/img/logo.png">
 </p>

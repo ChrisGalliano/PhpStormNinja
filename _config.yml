@@ -2,6 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 
 plugins:
   - jemoji
+  - jekyll-seo-tag
 
 baseurl: "/PhpStormNinja" # subpath of site
 
