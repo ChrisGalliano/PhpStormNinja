@@ -5,3 +5,11 @@ PhpStorm Ninja
 Если о чем-то забыл упомянуть - feel free to make a pull request. :smile:
 
 Документация в красивом виде: [https://chrisgalliano.github.io/PhpStormNinja](https://chrisgalliano.github.io/PhpStormNinja)
+
+<br>
+
+---
+
+<br>
+
+![logo.png](assets/img/logo.png)
