@@ -66,7 +66,7 @@ $logo: "{{ site.logo | absolute_url }}";
   height: 100%;
 }
 
-p > img:not(.emoji) {
+p > img:not(.emoji):not(.logo) {
   margin-top: 10px;
 }
 
@@ -82,5 +82,5 @@ blockquote {
 }
 
 img.logo {
-  margin-top: 0;
+  margin-top: -30px;
 }
