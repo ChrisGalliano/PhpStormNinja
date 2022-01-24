@@ -1,8 +1,8 @@
 PhpStorm Ninja
 ==============
 
-В этом репозитории я постараюсь собрать самые крутые и полезные фишки и настройки PhpStorm.
-Если о чем-то забыл упомянуть - feel free to make a pull request. :smile:
+Гайд по клёвым и полезным фишкам PhpStorm.
+Feel free to make a pull request. :wink: 
 
 Документация в красивом виде: [https://chrisgalliano.github.io/PhpStormNinja](https://chrisgalliano.github.io/PhpStormNinja)
 
