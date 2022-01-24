@@ -42,5 +42,5 @@ Smart Type Completion вызывается комбинацией `Ctrl+Shift+Sp
 
 ---
 
-Вот так выглядят мои настройки на текущий момент (PhpStorm 2021.3.1 Build #PS-213.6461.83, built on December 29, 2021):
+Вот так выглядят мои настройки на текущий момент (актуально на момент: PhpStorm 2021.3.1 Build #PS-213.6461.83, built on December 29, 2021):
 ![Screenshot of my settings](assets/CodeCompletionSettings.png)
