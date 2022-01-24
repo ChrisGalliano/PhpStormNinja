@@ -1,7 +1,6 @@
 ---
-title: Auto Import
-nav_order: 5
-has_children: false
+parent: Tricks
+nav_order: 1
 ---
 # Auto Import
 Settings -> Editor -> General -> Auto Import
